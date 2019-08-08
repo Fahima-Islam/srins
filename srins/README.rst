@@ -30,12 +30,6 @@ Super resolution reconstruction algorithms
 Features
 --------
 
-* TODO
+* https://github.com/Fahima-Islam/srins/blob/master/srins/notebooks/Real_DOS(all%20Ei)-%20COmparison%20between%20reconstruction%20algorithm.ipynb
 
-Credits
--------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
